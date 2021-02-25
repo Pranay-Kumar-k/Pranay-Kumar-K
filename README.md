@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pranay Kumar</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" alt="hello"/>, I'm Pranay Kumar</h1>
+<h3 align="center">I'm a student, developer and a husband!</h3>
 
 - 🔭 I’m currently working on **developing my skills**
 
