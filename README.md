@@ -23,12 +23,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pranaykumar999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pranaykumar999" height="30" width="40" /></a>
-<a href="https://medium.com/@pranay999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pranay999" height="30" width="40" /></a>
-<a href="https://codepen.io/pranaykumar999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="pranaykumar999" height="30" width="40" /></a>
-<a href="https://codesandbox.com/pranaykumar999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="pranaykumar999" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@pranaykumar31ma1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@pranaykumar31ma1" height="30" width="40" /></a>
-<a href="https://twitter.com/pranayk16071831" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pranayk16071831" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranaykumar999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pranaykumar999" height="30" width="40" style="background:white;" /></a>
+<a href="https://medium.com/@pranay999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pranay999" height="30" width="40" style="background:white;" /></a>
+<a href="https://codepen.io/pranaykumar999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="pranaykumar999" height="30" width="40" style="background:white;" /></a>
+<a href="https://codesandbox.com/pranaykumar999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="pranaykumar999" height="30" width="40" style="background:white;" /></a>
+<a href="https://www.hackerrank.com/@pranaykumar31ma1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@pranaykumar31ma1" height="30" width="40" style="background:white;"/></a>
+<a href="https://twitter.com/pranayk16071831" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pranayk16071831" height="30" width="40" style="background:white;" /></a>
 </p>
 
 
