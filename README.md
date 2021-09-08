@@ -3,13 +3,9 @@
 
 - 🌱 I’m currently learning **Backend web development**
 
-- 👯 I’m looking to collaborate with **MERN Projects**
-
-- 📝 Checkout my recent articles [https://pranay999.medium.com/](https://pranay999.medium.com/)
+- 👯 I love to learn new technologies
 
 - 💬 Ask me about **Frontend development**
-
-- ⚡ Fun fact **I love coding & cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
